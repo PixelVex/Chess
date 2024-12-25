@@ -1,5 +1,4 @@
 #include <iostream>
-#include "graphics1.h"
 
 void graphics1()
 {
