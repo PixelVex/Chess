@@ -1,0 +1,7 @@
+{
+    "makefile.configureOnOpen": false,
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "iostream": "cpp"
+    }
+}
